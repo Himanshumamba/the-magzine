@@ -1,0 +1,3 @@
+# the-magzine
+
+for learning ..
